@@ -1,0 +1,6 @@
+[
+  {
+    "name" : "io.dropwizard.jetty.ConnectorFactory",
+    "allDeclaredConstructors" : true
+  }
+]

@@ -1,0 +1,4 @@
+logging:
+  level: DEBUG
+  loggers:
+    com.github.meshuga: DEBUG
